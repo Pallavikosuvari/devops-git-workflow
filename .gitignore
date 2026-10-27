@@ -1,0 +1,18 @@
+# Environment and secrets
+.env
+*.pem
+*.key
+
+# Logs and temp files
+*.log
+tmp/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencies and build output
+node_modules/
+__pycache__/
+dist/
