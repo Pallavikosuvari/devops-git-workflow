@@ -42,8 +42,6 @@ Build the container with: `docker build -t healthcheck .`
 
 ## Screenshots
 
-### Commit history
-![Commit history](screenshots/01-git-init-and-first-push.png)
 
 ### Branch and merge graph
 ![Git graph](screenshots/02-git-graph.png)
@@ -55,13 +53,13 @@ Build the container with: `docker build -t healthcheck .`
 ![Git tag](screenshots/04-git-tag.png)
 
 ### .gitignore
-![gitignore](screenshots/05-gitignore.png)
+![gitignore](screenshots/05-git-ignore.png)
 
 ### Pull requests
-![Pull requests](screenshots/06-pull-requests.png)
+![Pull requests](screenshots/06-pull-request.png)
 
 ### Feature merged into dev
-![PR into dev](screenshots/07-pr-feature-to-dev.png)
+![PR into dev](screenshots/07-pr-feature-dev.png)
 
 ### Release merged into main
 ![PR into main](screenshots/08-pr-dev-to-main.png)
